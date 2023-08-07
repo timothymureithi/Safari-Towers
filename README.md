@@ -1,5 +1,10 @@
-# Getting Started with Create React App
+# Real estate Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Technologies Used
+- React
+- Tailwind
+
+  
+## Technologies Used
+- Screenshots
