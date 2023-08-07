@@ -6,5 +6,8 @@
 - Tailwind
 
   
-## Technologies Used
+## Screenshots
 - Screenshots
+
+- ## Link
+
