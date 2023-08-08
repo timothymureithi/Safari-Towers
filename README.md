@@ -3,7 +3,7 @@
 
 ## Technologies Used
 - React
-- Tailwind
+- CSS Grid
 
   
 ## Screenshots
