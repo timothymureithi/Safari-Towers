@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className='container'>
         <h1><span><BsFillHouseFill/>Safari</span>Towers</h1>
         <button className='btn'>Sign In</button>
-                <ul className='nav-menu'>
+                <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                     <li><a href='#'>Home</a></li>
                     <li><a href='#'>Search</a></li>
                     <li><a href='#'>About</a></li>
